@@ -1,1 +1,9 @@
-# 2nd_place_recsys_cinema_challenge_2020
+# Код решения 2го места трека по прогнозу тв-программ конкурса Cinema Challenge
+
+[Cinema Challenge](https://cinema.wechallenge.it/ru) 2nd place. Описание конкурса и данные для запуска решения можно найти на [kaggle](https://www.kaggle.com/c/sweettv-tv-program-recommender/overview). 
+
+Файлы:
+
+* Description.pptx - краткое описание решения в формате презентации
+* 1_prepare_data.ipynb - подготовка данных для решения
+* 3_final_model.ipynb - код для обучения и прогноза финальных моделей
